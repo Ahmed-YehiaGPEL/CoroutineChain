@@ -1,7 +1,6 @@
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
-build/
 .vs/
 *.ide
 
@@ -67,7 +66,7 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
-*.unitypackage
+
 /UnityPackageManager/manifest.json
 Packages/
 ProjectSettings/PresetManager.asset
