@@ -1,6 +1,6 @@
-# CoroutineChain
-Unity3d, Coroutine, scripting
-[Asset Package](/build/packages/CoroutineChainer.unitypackage)
+# CoroutineChainer
+
+[Asset Package](/release/CoroutineChainer.unitypackage)
 
 ## Intro
 Coroutine chain management, easry to read and able to chain coroutines to run on the fly or run later.
